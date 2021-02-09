@@ -7,5 +7,5 @@ This project consist on a modified version of the Tic Tac Toe game, the board ca
 
 **Date**: August, 2019
 
-**Aditional Credits**:
+**Additional Credits**:
 1. Tic Tac Toe Icon by QuizAnswers found on [icons101](http://www.icons101.com/icon/id_75826/setid_2529/Brain_Games_by_QuizAnswers/TicTacToeGame)
